@@ -1,0 +1,21 @@
+.container {
+    width: 250px;
+    margin: 20px auto;
+}
+
+.bi {
+    font-size: 30px;
+}
+
+.instagram {
+    color: rgb(194, 32, 194);
+}
+
+.facebook {
+    color: blue;
+}
+
+.whatsapp {
+    color: rgb(62, 158, 62);
+}
+
