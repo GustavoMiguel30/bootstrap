@@ -1,21 +1,52 @@
 .container {
-    width: 250px;
-    margin: 20px auto;
+    width: 350px;
+    height: 250px;
+    margin: 50px auto;
 }
+
+.col {
+    height: 70px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
 
 .bi {
     font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .instagram {
     color: rgb(194, 32, 194);
 }
 
+.instagram:hover {
+    color: white;
+    background-color: purple;
+    transition: 0.8s;
+}
+
 .facebook {
     color: blue;
 }
 
+.facebook:hover {
+    color: white;
+    background-color: blue;
+    transition: 0.8s;
+}
+
 .whatsapp {
     color: rgb(62, 158, 62);
+}
+
+.whatsapp:hover {
+    color: white;
+    background-color: rgb(62, 158, 62);
+    transition: 0.8s;
 }
 
