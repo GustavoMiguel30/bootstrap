@@ -1,0 +1,13 @@
+.row {
+    height: 50px;
+    border: 2px solid red;
+    margin: 2px;
+}
+
+#ímpar {
+    background-color: yellow;
+}
+
+#par {
+    background-color: brown;
+}
